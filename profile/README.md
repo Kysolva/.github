@@ -1,5 +1,7 @@
 # Kysolva
 
+> > > 快开学了，代码这些事先放下，补作业重要，命重要。
+
 This is the open-source-org for [Kysolva](https://kysolva.net/)
 
 ---
