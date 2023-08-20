@@ -9,4 +9,4 @@ This is the open-source-org for [Kysolva](https://kysolva.net/)
 
 As you can see, the open source community is going from strength to strength. You can also make an important contribution to its further development.
 
-Email to [Adkinsm](mailto:3020035335@qq.com) to join us. Let's make this world a better place!
+Email to [Adkinsm](mailto:adkinsm9277@gmail.com) to join us. Let's make this world a better place!
